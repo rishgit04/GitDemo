@@ -1,3 +1,1 @@
-Created for merge conflicttttttttttttttttttttt
-//Overwriting this
-Created for merge conflict!!
+Merge Conflict resolution complete.
